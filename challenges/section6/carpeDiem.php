@@ -24,7 +24,7 @@ $year = date('L');
 
 if($year) 
 {
-    echo "thi is a leap year";
+    echo "this is a leap year";
 } else {
     echo "this is not a leap year";
 }

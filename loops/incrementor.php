@@ -6,10 +6,10 @@ echo $i;
 
 echo "<br>"; 
 
-$i = $i + 1;
+$i += 1;
 
 echo $i . "<br>";
 
-$i += 1;
+$i -= 5;
 
 echo $i . "<br>";
